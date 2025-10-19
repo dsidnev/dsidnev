@@ -32,9 +32,9 @@ Data Scientist с опытом решения прикладных задач в
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📚 Научная деятельность
-```
+
 М. А. Посыпкин, Д. А. Сиднев, “Применение интервальных наклонов в задачах негладкой одномерной оптимизации”, Ж. вычисл. матем. и матем. физ., 65:3 (2025),  301–324  mathnet  elib; M. A. Posypkin, D. A. Sidnev, “Application of interval slopes in nonsmooth one-dimensional optimization problems”, Comput. Math. Math. Phys., 65:3 (2025), 544–566
-```
+
 
 ## 📫 Контакты
 
