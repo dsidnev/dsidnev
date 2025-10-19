@@ -38,5 +38,4 @@ Data Scientist с опытом решения прикладных задач в
 
 ## 📫 Контакты
 
-[![Email](https://img.shields.io/badge/Email-Data_Scientist@example.com-blue?style=for-the-badge&logo=gmail)](mailto:sidnew2001@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/DmitrySidnev)
